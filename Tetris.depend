@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1641390424 source:c:\dysk zet\nauka\codeblocks\tetris\dodaj.c
+	"dodaj.h"
+
+1641390428 c:\dysk zet\nauka\codeblocks\tetris\dodaj.h
+	<stdio.h>
+
+1643667319 source:c:\dysk zet\nauka\codeblocks\tetris\main.c
+	"menu.h"
+	"game.h"
+
+1643667319 source:c:\dysk zet\nauka\codeblocks\tetris2\main.c
+	"menu.h"
+	"game.h"
+
+1643669080 c:\dysk zet\nauka\codeblocks\tetris2\generics.h
+	"raylib.h"
+
+1643667324 source:c:\dysk zet\nauka\codeblocks\tetris2\generics.c
+	"generics.h"
+
+1643669080 c:\dysk zet\nauka\codeblocks\tetris2\display.h
+	"generics.h"
+
+1643581306 source:c:\dysk zet\nauka\codeblocks\tetris2\display.c
+	<stdio.h>
+	"display.h"
+
+1643669345 source:c:\dysk zet\nauka\codeblocks\tetris2\menu.c
+	"menu.h"
+
+1643669542 c:\dysk zet\nauka\codeblocks\tetris2\menu.h
+	"display.h"
+
+1643582225 c:\dysk zet\nauka\codeblocks\tetris2\game.h
+	"display.h"
+
+1643582217 source:c:\dysk zet\nauka\codeblocks\tetris2\game.c
+	<stdio.h>
+	"game.h"
+
+1643581306 source:c:\dysk zet\nauka\codeblocks\tetris\display.c
+	<stdio.h>
+	"display.h"
+
+1643669080 c:\dysk zet\nauka\codeblocks\tetris\display.h
+	"generics.h"
+
+1643669080 c:\dysk zet\nauka\codeblocks\tetris\generics.h
+	"raylib.h"
+
+1643582217 source:c:\dysk zet\nauka\codeblocks\tetris\game.c
+	<stdio.h>
+	"game.h"
+
+1643582225 c:\dysk zet\nauka\codeblocks\tetris\game.h
+	"display.h"
+
+1643667324 source:c:\dysk zet\nauka\codeblocks\tetris\generics.c
+	"generics.h"
+
+1643669542 c:\dysk zet\nauka\codeblocks\tetris\menu.h
+	"display.h"
+
+1643669809 source:c:\dysk zet\nauka\codeblocks\tetris\menu.c
+	"menu.h"
+
