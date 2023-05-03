@@ -8,6 +8,8 @@ Right now I also provided a .exe file with the game already compiled (if you're 
 
 ## Screenshots
 ![alt text](https://github.com/iendjei0/Tetris/blob/main/Demo/menu.png)
+![alt text](https://github.com/iendjei0/Tetris/blob/main/Demo/ingame1.png)
+![alt text](https://github.com/iendjei0/Tetris/blob/main/Demo/ingame2.png)
 
 ## 
 **Have fun!**
